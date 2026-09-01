@@ -1,0 +1,11 @@
+{
+  "name":"N Tarpaulin",
+  "short_name":"N Tarpaulin",
+  "description":"Quality PVC Tarpaulin You Can Trust.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f7fb",
+  "theme_color":"#092a78",
+  "orientation":"portrait",
+  "icons":[{"src":"logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
